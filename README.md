@@ -226,11 +226,3 @@ curated list of top AI Tools.
 | fynk | AI powered contract management software | [🔗](https://fynk.com/) |
 | LooksMax AI | Find out how hot you are using AI | [🔗](https://looksmax.ai) |
 | STRProfitMap | Data analytics Saas for airbnb investors. | [🔗](https://www.strprofitmap.com) |
-
-## Contributors 😍
-
-Many thanks to these AI whisperers:
-
-<a href="https://github.com/ghimiresunil/Top-AI-Tools/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ghimiresunil/Top-AI-Tools" />
-</a>
